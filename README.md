@@ -75,11 +75,22 @@ Modelado, texturizado y renderizado 3D para proyectos visuales y de comunicació
 
 ### 3D & Design
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Krita](https://img.shields.io/badge/-Krita-203759?style=flat-square&logo=krita&logoColor=white)
 ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Creality Print](https://img.shields.io/badge/-Creality%20Print-0078D7?style=flat-square&logoColor=white)
+
+### Game Development
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-7952B3?style=flat-square&logo=github&logoColor=white)
+![AnyDesk](https://img.shields.io/badge/-AnyDesk-EF443B?style=flat-square&logo=anydesk&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 
 ---
