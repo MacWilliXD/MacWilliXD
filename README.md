@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola, soy Lesster Mac Williams!
 
-### Data Engineer & Full Stack Developer
+### Data Engineer · Full Stack Developer
 ### Analytics · Visualization · Business Intelligence · 3D Artist
 
 [![Linktr](https://img.shields.io/badge/Network-MacWilliXD-f44336?style=for-the-badge&logo=instagram)](https://linktr.ee/MacWilli)
@@ -15,18 +15,23 @@
 
 ## 🚀 Sobre Mí
 
-Soy un desarrollador apasionado por la ingeniería de datos, el desarrollo full stack y la visualización de información. Me especializo en crear soluciones integrales que combinan análisis de datos, dashboards interactivos y aplicaciones web robustas. También tengo experiencia en arte 3D, lo que me permite aportar una perspectiva creativa única a mis proyectos técnicos.
+Soy Egresado de la **Licenciatura en Ingeniería en Datos e Inteligencia Organizacional** con especialidad en **TICs**. Desarrollador apasionado por la ingeniería de datos, el desarrollo full stack, el desarrollo móvil y la visualización de información. Me especializo en crear soluciones integrales que combinan análisis de datos, dashboards interactivos, aplicaciones nativas para Android y sistemas web robustos. También tengo experiencia en arte 3D, lo que me permite aportar una perspectiva creativa única a mis proyectos técnicos.
 
-Mi enfoque está en transformar datos complejos en insights accionables mediante visualizaciones intuitivas y sistemas escalables.
+Mi enfoque está en transformar datos complejos en insights accionables mediante visualizaciones intuitivas, reportes de negocio y sistemas escalables tanto en web como en móvil.
 
 ---
 
 ## 💼 Áreas de Experiencia
 
-### 📊 Dashboards & Business Intelligence
-Desarrollo de sistemas de visualización de datos con dashboards interactivos, análisis de métricas en tiempo real y reportes dinámicos. Experiencia en transformar datos complejos en interfaces intuitivas para toma de decisiones.
+### 📊 Business Intelligence & Reportes Ejecutivos
+Diseño y desarrollo de soluciones de inteligencia de negocios: dashboards ejecutivos, KPIs interactivos, reportes dinámicos y análisis de datos empresariales. Experiencia conectando fuentes de datos heterogéneas para generar visualizaciones que soporten la toma de decisiones estratégicas.
 
-**Tecnologías:** Chart.js, Power BI, D3.js, JavaScript, PHP, MySQL
+**Tecnologías:** Power BI, Excel Avanzado (Power Query, Power Pivot, DAX), Chart.js, D3.js, MySQL, PHP
+
+### 📱 Desarrollo Móvil Android
+Desarrollo de aplicaciones nativas para Android: diseño de interfaces con Material Design, consumo de APIs REST, persistencia local de datos y publicación en Play Store. Integración de servicios como mapas, notificaciones push y autenticación.
+
+**Tecnologías:** Android Studio, Kotlin, Java, XML Layouts, SQLite, Room, Retrofit, Firebase
 
 ### 🗺️ Soluciones GIS & Análisis Geoespacial
 Implementación de sistemas de información geográfica con mapas interactivos, geocodificación, análisis territorial y visualización de datos espaciales. Integración de servicios de mapeo y procesamiento de datos geográficos.
@@ -39,9 +44,9 @@ Desarrollo de aplicaciones web completas desde el backend hasta el frontend, inc
 **Tecnologías:** PHP, JavaScript, Node.js, React, MySQL, HTML5, CSS3
 
 ### 📈 Análisis de Datos & ETL
-Procesamiento, transformación y análisis de grandes volúmenes de datos. Creación de pipelines ETL, limpieza de datos y generación de reportes automatizados.
+Procesamiento, transformación y análisis de grandes volúmenes de datos. Creación de pipelines ETL, limpieza de datos, automatización con Excel y generación de reportes.
 
-**Tecnologías:** Python, Pandas, MySQL, PostgreSQL, Excel Avanzado
+**Tecnologías:** Python, Pandas, MySQL, PostgreSQL, Excel Avanzado, Power Query
 
 ### 🎨 Diseño 3D & Creatividad Digital
 Modelado, texturizado y renderizado 3D para proyectos visuales y de comunicación. Integración de elementos creativos en proyectos técnicos.
@@ -51,6 +56,18 @@ Modelado, texturizado y renderizado 3D para proyectos visuales y de comunicació
 ---
 
 ## 🛠️ Stack Tecnológico
+
+### Mobile
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel%20Avanzado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/-DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/-Power%20Query-2C7AC3?style=flat-square&logo=microsoft&logoColor=white)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -67,7 +84,7 @@ Modelado, texturizado y renderizado 3D para proyectos visuales y de comunicació
 ### Data & Analytics
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### GIS & Mapping
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
@@ -89,20 +106,24 @@ Modelado, texturizado y renderizado 3D para proyectos visuales y de comunicació
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-7952B3?style=flat-square&logo=github&logoColor=white)
-![AnyDesk](https://img.shields.io/badge/-AnyDesk-EF443B?style=flat-square&logo=anydesk&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 
 ---
 
 ## 📚 Formación y Certificaciones
 
+### Educación
+- 🎓 **Lic. en Ingeniería en Datos e Inteligencia Organizacional** — Especialidad en TICs
+
 ### Cursos y Especializaciones
 - 📊 **Data Engineering & Analytics** - Análisis y procesamiento de datos a gran escala
 - 💻 **Full Stack Web Development** - Desarrollo de aplicaciones web completas
+- 📱 **Android Development** - Aplicaciones nativas con Android Studio, Kotlin y Java
+- 📈 **Business Intelligence** - Power BI, DAX, Power Query y Excel Avanzado para análisis empresarial
 - 🗺️ **GIS & Geospatial Analysis** - Sistemas de información geográfica
-- 📈 **Business Intelligence** - Visualización y análisis de datos empresariales
 - 🎨 **3D Modeling & Design** - Modelado y renderizado 3D
 
 ---
@@ -112,8 +133,10 @@ Modelado, texturizado y renderizado 3D para proyectos visuales y de comunicació
 ```javascript
 const expertise = {
     dataEngineering: ["ETL Pipelines", "Data Warehousing", "MySQL", "PostgreSQL"],
+    businessIntelligence: ["Power BI", "DAX", "Power Query", "Excel Avanzado", "KPIs"],
+    mobile: ["Android Studio", "Kotlin", "Java", "Firebase", "Material Design"],
     fullStack: ["PHP", "JavaScript", "React", "Node.js", "REST APIs"],
-    analytics: ["Chart.js", "Power BI", "Data Visualization", "KPIs"],
+    analytics: ["Chart.js", "D3.js", "Data Visualization", "Dashboards"],
     gis: ["ArcGIS", "Leaflet", "Geospatial Analysis", "OpenStreetMap"],
     design: ["3D Modeling", "Blender", "UI/UX", "Creative Solutions"]
 };
